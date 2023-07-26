@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Front-RickandMorty/static/css/main.8c072fc0.css",
+    "main.js": "/Front-RickandMorty/static/js/main.7fa3f1c6.js",
+    "static/media/gift.gif": "/Front-RickandMorty/static/media/gift.f07cc332a77180f76080.gif",
+    "index.html": "/Front-RickandMorty/index.html",
+    "main.8c072fc0.css.map": "/Front-RickandMorty/static/css/main.8c072fc0.css.map",
+    "main.7fa3f1c6.js.map": "/Front-RickandMorty/static/js/main.7fa3f1c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c072fc0.css",
+    "static/js/main.7fa3f1c6.js"
+  ]
+}
